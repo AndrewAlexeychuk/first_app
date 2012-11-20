@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-# master
-
 gem 'rails', '3.2.9'
 
 # Bundle edge Rails instead:
