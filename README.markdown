@@ -5,4 +5,4 @@
  [����� �����](http://michaelhartl.com/).
 
  Added manually
- Added in GUI
+ Added in GUI in master
